@@ -14,7 +14,7 @@
 	/*-------------------------------------------------------*/
 	#container {
 		margin:0 auto;
-		width:860px;
+		width:870px;
 		margin-bottom: 20px;
 		margin-top: 30px;
 	}
@@ -36,7 +36,7 @@
 	/*-------------------------------------------------------*/
 		/* Typography */
 	/*-------------------------------------------------------*/
-    h1 {font-size: 37px;}
+    h1 {font-size: 33px;}
 	h2 {font-size: 30px;}
 	h3 {font-size: 20px;}
 	h4 {font-size: 15px;}
@@ -181,7 +181,7 @@
 	.about p {
 		font-size:14px;
 		margin-top:15px;
-		color:#bc9010;
+		color:;
 		line-height:20px;
 	}
 	/* Personal info */
@@ -200,7 +200,7 @@
 		overflow: hidden;
 	}
 	.personal-info li label {
-		color:#a87f09;
+		color:;
 		background-color:#f4c024;
 		float:left;
 		padding:4px 7px;
@@ -211,7 +211,7 @@
 	.personal-info li span {
 		float:right;
 		width:170px;
-		color:#a87f09;
+		color:;
 	}
 	/*-------------------------------------------------------*/
 		/* Menu */
@@ -225,7 +225,7 @@
 		height:116px;
 		position: absolute;
 		margin-top:-14px;
-		padding-left:130px;
+		padding-left:525px;
 		z-index:100;
 	}
 	.tabs li {
@@ -273,9 +273,6 @@
 	}
 	.tabs .active .tab-portfolio {
 		background-image:url(../images/portfolio-icon-active.png);
-	}
-	.tabs .active .tab-contact {
-		background-image:url(../images/contact-icon-active.png);
 	}
 	/*-------------------------------------------------------*/
 		/* Resume Section */
